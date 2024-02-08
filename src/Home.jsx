@@ -165,7 +165,7 @@ function Home() {
                <span className=" text-2xl pl-6 font-bold text-white">
                   HOW WE WORK
                </span>
-               <span className="absolute top-4 left-200 h-[2px] w-36 ml-4 bg-sky-700"></span>
+               <span className="absolute top-4 left-200 h-[2px] w-20 md:w-36 ml-4 bg-sky-700"></span>
             </div>
             <div className="relative py-10">
                <div className="absolute top-0 left-6 lg:left-1/2 bottom-0 w-1 bg-white"></div>
@@ -283,7 +283,7 @@ function Home() {
          <div className="p-6 bg-cyan-950 text-white py-16 lg:px-36 px-8">
             <div className="relative mb-20">
                <span className=" text-2xl pl-6 font-bold">CONNECT WITH US</span>
-               <span className="absolute top-4 left-100 h-[2px] w-36 ml-4 bg-sky-700"></span>
+               <span className="absolute top-4 left-200 h-[2px] w-20 md:w-36 ml-4 bg-sky-700"></span>
             </div>
             <div className="flex justify-center flex-col lg:flex-row items-center">
                <div className="flex-1 mb-20 p-6">
